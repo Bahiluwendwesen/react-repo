@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-        last z11dz my git  react app Edit <code>src/App.js</code> and save to reload.
+        last z11dz b3 my git  react app Edit <code>src/App.js</code> and save to reload.
         </p>
         <a
           className="App-link"
